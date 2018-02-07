@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Idea #1: The Board"
+title:  "The Board"
 date:   2014-11-08 0:00:00 -0500
 categories: Ideas
 ---
