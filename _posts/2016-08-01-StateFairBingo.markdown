@@ -17,7 +17,7 @@ __Repo__:
 
 __Contributors__:
 - [jdennis925]
-
+- [laurafox]
 
 [jdennis925]: https://github.com/jdennis925
 [laurafox]: https://github.com/laurafox
