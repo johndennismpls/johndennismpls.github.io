@@ -11,8 +11,8 @@ __Repo__:
 - [GuiWalker]
 
 __Contributors__:
-- [jdennis925]
+- [johndennismpls]
 - [laurafox]
 
-[jdennis925]: https://github.com/jdennis925
-[GuiWalker]: https://github.com/jdennis925/guiwalker
+[johndennismpls]: https://github.com/johndennismpls
+[GuiWalker]: https://github.com/johndennismpls/guiwalker

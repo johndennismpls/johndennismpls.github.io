@@ -18,9 +18,9 @@ email: jdennis925@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Documenting side projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jdennis925.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://johndennismpls.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  jdennis925
+github_username:  johndennismpls
 linkedin_username: jdennis925
 
 # Build settings

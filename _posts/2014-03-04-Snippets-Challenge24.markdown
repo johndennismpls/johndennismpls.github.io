@@ -19,7 +19,7 @@ __Repo__:
 - [Challenge24]
 
 __Contributors__:
-- [jdennis925]
+- [johndennismpls]
 
 
 
@@ -30,5 +30,5 @@ __Contributors__:
 [c24banner]: /assets/c24.jpg
 [mcorrigan89]: http://github.com/mcorrigan89
 [msakowski88]: https://github.com/msakowski88
-[jdennis925]: https://github.com/jdennis925
-[Challenge24]: https://github.com/jdennis925/my-repo/tree/master/Challenge24
+[johndennismpls]: https://github.com/johndennismpls
+[Challenge24]: https://github.com/johndennismpls/my-repo/tree/master/Challenge24

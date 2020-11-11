@@ -20,10 +20,10 @@ __Repo__:
 - [Rock Paper Scissors]
 
 __Contributors__:
-- [jdennis925]
+- [johndennismpls]
 - [laurafox]
 
-[jdennis925]: https://github.com/jdennis925
+[johndennismpls]: https://github.com/johndennismpls
 [RockPaperScissors]: /assets/RockPaperScissors.jpg
 [laurafox]: https://github.com/laurafox
-[Rock Paper Scissors]: https://github.com/jdennis925/Pablo
+[Rock Paper Scissors]: https://github.com/johndennismpls/Pablo

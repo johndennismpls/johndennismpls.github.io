@@ -11,10 +11,10 @@ __Repo__:
 - [ORyan]
 
 __Contributors__:
-- [jdennis925]
+- [johndennismpls]
 - [mcorrigan89]
 
 
 [mcorrigan89]: http://github.com/mcorrigan89
-[jdennis925]: https://github.com/jdennis925
+[johndennismpls]: https://github.com/johndennismpls
 [ORyan]: https://github.com/mcorrigan89/O-Ryan

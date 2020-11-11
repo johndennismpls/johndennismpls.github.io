@@ -24,7 +24,7 @@ __Repos__:
 __Contributors__:
 - [mcorrigan89]
 - [msakowski88]
-- [jdennis925]
+- [johndennismpls]
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
@@ -32,5 +32,5 @@ __Contributors__:
 [theBoard]: /assets/TheBoardSmall.jpg
 [mcorrigan89]: http://github.com/mcorrigan89
 [msakowski88]: https://github.com/msakowski88
-[jdennis925]: https://github.com/jdennis925
+[johndennismpls]: https://github.com/johndennismpls
 [The Board]: https://github.com/mcorrigan89/the_board

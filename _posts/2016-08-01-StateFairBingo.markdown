@@ -16,9 +16,9 @@ __Repo__:
 - [State Fair Bingo]
 
 __Contributors__:
-- [jdennis925]
+- [johndennismpls]
 - [laurafox]
 
-[jdennis925]: https://github.com/jdennis925
+[johndennismpls]: https://github.com/johndennismpls
 [laurafox]: https://github.com/laurafox
-[State Fair Bingo]: https://github.com/jdennis925/ForLaura/tree/master/StateFairBingo
+[State Fair Bingo]: https://github.com/johndennismpls/ForLaura/tree/master/StateFairBingo

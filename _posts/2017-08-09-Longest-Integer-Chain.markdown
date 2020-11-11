@@ -23,10 +23,10 @@ __Repo__:
 - [LongestIntegerChain]
 
 __Contributors__:
-- [jdennis925]
+- [johndennismpls]
 - [laurafox]
 
-[jdennis925]: https://github.com/jdennis925
+[johndennismpls]: https://github.com/johndennismpls
 [laurafox]: https://github.com/laurafox
 [538 Riddler Classic]: https://fivethirtyeight.com/features/pick-a-number-any-number/
-[LongestIntegerChain]: https://github.com/jdennis925/ForLaura/tree/master/100%20list
+[LongestIntegerChain]: https://github.com/johndennismpls/ForLaura/tree/master/100%20list

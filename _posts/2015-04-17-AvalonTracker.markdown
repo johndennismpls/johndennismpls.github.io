@@ -19,9 +19,9 @@ __Repo__:
 - [AvalonTracker]
 
 __Contributors__:
-- [jdennis925]
+- [johndennismpls]
 
 
-[jdennis925]: https://github.com/jdennis925
-[AvalonTracker]: https://github.com/jdennis925/Avalon-Tracker
+[johndennismpls]: https://github.com/johndennismpls
+[AvalonTracker]: https://github.com/johndennismpls/Avalon-Tracker
 [The Resistance Avalon]: https://boardgamegeek.com/boardgame/128882/resistance-avalon
